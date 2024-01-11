@@ -1,5 +1,13 @@
 function isSameType(value1, value2) {
   //your js code here
+	            if(value1 == String)
+            {
+                alert(false);
+            }
+            else
+            {
+                alert(true);
+            }
 }
 
 // do not change the code below.
